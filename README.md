@@ -1,1 +1,1 @@
-# Praticando_JavaScript_POO
+# Praticando JavaScript POO
